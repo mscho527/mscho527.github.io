@@ -1,25 +1,33 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_cicular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: minsik.jpg
+  image_cicular: true # crops the image to make it circular
+  address: 
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a first-year Ph.D. student at [MIT Chemistry](https://chemistry.mit.edu/). My Ph.D. program is supported by the [MIT Presidential Fellowship](https://web.mit.edu/provost/presfellow/) and the [Kwanjeong Fellowship](http://ikef.or.kr/). My interests are in computational chemistry, specifically in quantum embedding methods.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I completed my undergraduate education at [Brown University](https://www.brown.edu), where I graduated with Honors in Chemical Physics and with a *magna cum laude*. My research advisor was [Professor Brenda Rubenstein](https://www.brown.edu/research/labs/rubenstein/home), with whom I studied the group's Finite-Temperature Auxiliary Field Quantum Monte Carlo (FT-AFQMC) method on transition metals.
+
+A list of organizations (and their locations) that I have previously engaged with, which I fully describe the experience in my CV for practical reasons, are as follows:
+
+[//]: # "TODO: Add link to CV above"
+
+- [Center for Computation and Visualization (CCV)](https://ccv.brown.edu/) @ Brown University, Providence RI
+- The [Gagliardi Group](https://gagliardigroup.uchicago.edu/) @ University of Chicago, Chicago IL
+- [Google Summer of Code](https://summerofcode.withgoogle.com/archive/2020/projects/6654533616271360)
+- The [Martin Group](https://www.compchem.me/) @ Weizmann Institute of Science, Rehovot, Israel
+- [Eighth US Army](https://8tharmy.korea.army.mil) through the [KATUSA](https://8tharmy.korea.army.mil/site/about/katusa-soldier-program.asp) Program
+
