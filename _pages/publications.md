@@ -11,13 +11,14 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
-<h3>Undergraduate</h3>
+<h4>Undergraduate</h4>
 {%- for y in page.ugyears %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f ugpapers -q @*[year={{y}}]* %}
 {% endfor %}
 
-<h3>High School</h3>
+
+<h4>High School</h4>
 {%- for y in page.hsyears %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f hspapers -q @*[year={{y}}]* %}
