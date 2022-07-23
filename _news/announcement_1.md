@@ -1,7 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-03-28 00:00:00+0900
 inline: true
 ---
 
-A simple inline announcement.
+I decided to join MIT Chemistry this fall for my Ph.D. program. I will receive MIT Presidential Fellowship which covers tuition and stipend for my first year (along with standard appointments in the following four years). 
+
+
