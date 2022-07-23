@@ -17,6 +17,8 @@ nav_order: 1
   {% bibliography -f ugpapers -q @*[year={{y}}]* %}
 {% endfor %}
 
+<br>
+
 <h4>High School</h4>
 {%- for y in page.hsyears %}
   <h2 class="year">{{y}}</h2>
