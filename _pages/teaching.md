@@ -1,12 +1,12 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: true
 nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+During my undergraduate years at Brown, I worked as an undergraduate teaching assistant for CHEM330 (Equilibrium, Rate, and Structure) in Fall 2020, Spring 2021, and Fall 2021 semesters. I also worked as a computational lab teaching assistant for CHEM500 (Inorganic Chemistry) in Spring 2021 semester.  
+I will be working as a graduate teaching assistant at MIT in the upcoming Fall 2022 semester. More details will be updated in the coming months.
 
-Organize your courses by years, topics, or universities, however you like!
