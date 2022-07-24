@@ -6,6 +6,7 @@ title: Minsik Cho # the website title (if blank, full name will be used instead)
 first_name: Minsik
 middle_name: 
 last_name: Cho
+kr_name: 조민식
 email: minsik@mit.edu
 description:  # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: 
