@@ -19,9 +19,9 @@ Hello!
 
 I am a first-year Ph.D. student at [MIT Chemistry](https://chemistry.mit.edu/). My Ph.D. program is supported by the [MIT Presidential Fellowship](https://web.mit.edu/provost/presfellow/) and the [Kwanjeong Fellowship](http://ikef.or.kr/). My interests are in computational chemistry, specifically in quantum embedding methods.
 
-I completed my undergraduate education at [Brown University](https://www.brown.edu), where I graduated with Honors in Chemical Physics and with a *magna cum laude*. My research advisor was [Professor Brenda Rubenstein](https://www.brown.edu/research/labs/rubenstein/home), with whom I studied the group's Finite-Temperature Auxiliary Field Quantum Monte Carlo (FT-AFQMC) method on transition metals.
+I completed my undergraduate education at [Brown University](https://www.brown.edu), where I graduated with Honors in Chemical Physics and with a *magna cum laude*. My research advisor was [Professor Brenda Rubenstein](https://www.brown.edu/research/labs/rubenstein/home), with whom I studied the Finite-Temperature Auxiliary Field Quantum Monte Carlo (FT-AFQMC) method on transition metals.
 
-A list of organizations that I have previously engaged with is included below. Please refer to my [CV]({{ site.baseurl }}{% link _pages/cv.md %}) for more details.
+Some of the organizations that I have previously engaged with is listed below. Please refer to my [CV]({{ site.baseurl }}{% link _pages/cv.md %}) for more details.
 
 - [Center for Computation and Visualization (CCV)](https://ccv.brown.edu/) @ Brown University, Providence RI
 - The [Gagliardi Group](https://gagliardigroup.uchicago.edu/) @ University of Chicago, Chicago IL
