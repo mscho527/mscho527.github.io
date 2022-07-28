@@ -7,7 +7,7 @@ nav_order: 2
 cv_pdf: resume+cv.pdf
 ---
 
-My education has been possible thanks to several generous funds and fellowships. I want to use the opportunity to express gratitude to a few listed below and hope that the continued support benefits more students in the future.
+My education has been possible thanks to several generous funds and fellowships. A few of them are listed below to express gratitude and hope that their continued support toward education would benefit more students.
 
 - [MIT Presidential Fellowship](https://web.mit.edu/provost/presfellow/) (Ph.D. / First-year Stipend, Tuition, & Insurance)
 - [Kwanjeong Fellowship](http://ikef.or.kr/) (Ph.D. / Five years of partial support)
