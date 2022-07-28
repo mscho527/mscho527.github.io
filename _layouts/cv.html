@@ -3,8 +3,9 @@ layout: default
 ---
 <!-- _layouts/cv.html -->
         <div class="post" style="overflow: auto;">
-		<object data="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" type='application/pdf' style="float:left;width:100%;height:65vh;"></object>
-
+	  <div>
+	    <object data="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" type='application/pdf' style="float:left;width:100%;height:65vh;padding-bottom:10px;"></object>
+          </div>
 	  <article>
             {{ content }}
           </article>
