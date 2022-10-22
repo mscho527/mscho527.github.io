@@ -24,6 +24,7 @@ I completed my undergraduate education at [Brown University](https://www.brown.e
 Some of the organizations that I have previously engaged with are listed below. Please refer to my [CV]({{ site.baseurl }}{% link _pages/cv.md %}) for more details.
 
 - [Center for Computation and Visualization (CCV)](https://ccv.brown.edu/) @ Brown University, Providence RI
+- The [Rubenstein Group](https://www.brown.edu/research/labs/rubenstein/home) @ Brown University, Providence RI
 - The [Gagliardi Group](https://gagliardigroup.uchicago.edu/) @ University of Chicago, Chicago IL
 - [Google Summer of Code](https://summerofcode.withgoogle.com/archive/2020/projects/6654533616271360) with [cclib](https://github.com/cclib/cclib)
 - The [Martin Group](https://www.compchem.me/) @ Weizmann Institute of Science, Rehovot, Israel
