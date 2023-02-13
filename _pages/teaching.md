@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 I have worked as a teaching assistant for a few courses, as listed below, during my graduate and undergraduate studies.
-- [5.601/5.602](http://student.mit.edu/catalog/m5b.html#5.601) (HTA; MIT Fall 2022, Spring 2023)
+- [5.601/5.602](http://student.mit.edu/catalog/m5b.html#5.601) (HTA; MIT Fall 2022 / TA; Spring 2023)
 - [CHEM330](https://cab.brown.edu/?subj=CHEM&term=999999?kw=CHEM0330) (UTA; Brown Fall 2020, Spring 2021, Fall 2021)
 - [CHEM500](https://cab.brown.edu/?subj=CHEM&term=999999?kw=CHEM0500) (Lab UTA; Brown Spring 2021)
 
