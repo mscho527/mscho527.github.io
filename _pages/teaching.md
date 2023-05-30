@@ -14,7 +14,7 @@ I have worked as a teaching assistant for a few courses, as listed below, during
 
 ### 5.601/5.602
 
-5.601 (Thermodynamics I) and 5.602 (Thermodynamics II and Kinetics) are half-term courses usually taken by sophomores and juniors in Course 5 or 10. As the Head TA for the course, I have coordinated the course logistics, managed student accommodations, and set up course LMS tools on top of the normal teaching duties. I taught weekly recitation sections, where I tried to review lecture materials and incorporate applications in current research and in industry.
+5.601 (Thermodynamics I) and 5.602 (Thermodynamics II and Kinetics) are half-term courses usually taken by sophomores and juniors in Course 5 or 10. As the Head TA for the course in the fall, I have coordinated the course logistics, managed student accommodations, and set up course LMS tools on top of the normal teaching duties. I taught weekly recitation sections, where I tried to review lecture materials and incorporate applications in current research and in industry. I am glad that I could contribute to chemistry education at MIT and have also received positive reviews from the students (6.3, 7.0, 6.3, 7.0 overall ratings out of 7.0 for Fall 5.601/2 and Spring 5.601/2 respectively).
 
 
 ### CHEM330 Group Problem Solving Sessions (GPS)
