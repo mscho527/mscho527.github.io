@@ -17,7 +17,7 @@ social: false  # includes social icons at the bottom of the page
 
 Hello!
 
-I am a second-year Ph.D. student at [MIT Chemistry](https://chemistry.mit.edu/). My Ph.D. program is supported by the [MIT Presidential Fellowship](https://web.mit.edu/provost/presfellow/) (*Robert T. Haslam Fellow*) and the [Kwanjeong Fellowship](http://ikef.or.kr/). My interests are in computational chemistry, specifically in quantum embedding methods.
+I am a PhD student at the [Van Voorhis Group](http://vanvoorhisgroup.mit.edu/) in [MIT Chemistry](https://chemistry.mit.edu/). My Ph.D. program is supported by the [MIT Presidential Fellowship](https://web.mit.edu/provost/presfellow/) (*Robert T. Haslam Fellow*) and the [Kwanjeong Fellowship](http://ikef.or.kr/). My interests are in computational chemistry, specifically in quantum embedding methods.
 
 I completed my undergraduate education at [Brown University](https://www.brown.edu), where I graduated *magna cum laude* with Honors in Chemical Physics. My research advisor was [Professor Brenda Rubenstein](https://www.brown.edu/research/labs/rubenstein/home), with whom I studied the Finite-Temperature Auxiliary Field Quantum Monte Carlo (FT-AFQMC) method on transition metals.
 
