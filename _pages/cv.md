@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 2
-cv_pdf: resume+cv.pdf
+cv_pdf: cv.pdf
 ---
 
 My education has been possible thanks to several generous funds and fellowships. A few of them are listed below to express gratitude and hope that their continued support toward education would benefit more students.
