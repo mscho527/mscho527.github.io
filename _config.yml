@@ -212,7 +212,7 @@ scholar:
   locale: en
 
   source: /_bibliography/
-  bibliography: [ugpapers.bib, hspapers.bib]
+  bibliography: [ugpapers.bib, hspapers.bib, gpapers.bib]
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
@@ -232,7 +232,7 @@ scholar:
 filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview]
 
 # Maximum number of authors to be shown, other authors will be visible on hover, leave blank to show all authors
-max_author_limit: 10
+max_author_limit: 100
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
